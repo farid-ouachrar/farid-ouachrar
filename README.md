@@ -5,8 +5,3 @@ I'm a software engineer at [Veylinx](https://veylinx.com) who is passionate abou
 - 💬 Ask me about React/JS, SaaS, Notion, or Moroccan food.
 - 📫 How to reach me: DM me @faridouachrar or email me at farid.ouachrar@gmail.com
 - 📖 Favourite book: Zero to Sold
-
-
-### Github Stats
-
-[![Farid's Github Stats](https://github-readme-stats.vercel.app/api?username=farid-ouachrar&count_private=true&theme=default&show_icons=true)](https://github.com/farid-ouachrar)
